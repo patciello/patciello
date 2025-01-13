@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patciello&label=Profile%20views&color=0e75b6&style=flat" alt="patciello" /> </p>
+![Alt Text](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
 
 - 🔭 I’m currently working on **Livres App (Church App)**
 
@@ -18,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patciello&show_icons=true&locale=en" alt="patciello" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patciello&" alt="patciello" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patciello&label=Profile%20views&color=0e75b6&style=flat" alt="patciello" /> </p>
