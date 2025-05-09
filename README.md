@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Livres App (Church App)**
 
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **React, React Native** (NO Vibe Coding)
 
 - 👯 I’m looking to collaborate on **React & React Native**
 
