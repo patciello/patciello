@@ -1,10 +1,7 @@
 ![Alt Text](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY3MzY3ODUsIm5iZiI6MTczNjczNjQ4NSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTEzVDAyNDgwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJlNmQ0ZjYwYWJmOGI0ZGI0NjhjYTM1YzVmZTQ1YTJkNGUzN2ViYTI5NTZmYjJjNjlhODA0YWIxOTA1OGUyMWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.H8W0snCbCXhMrnh8kXPR8J3J-r6EHMHXRM00P85ZF78)
 
-- 🔭 I’m currently working on **Livres App (Church App)**
 
-- 🌱 I’m currently learning **React, React Native** (NO Vibe Coding)
-
-- 👯 I’m looking to collaborate on **React & React Native**
+- 🌱 I’m currently learning **React, React Native** , **SQL**
 
 - 📫 How to reach me **leonardopaciellop@gmail.com**
 
